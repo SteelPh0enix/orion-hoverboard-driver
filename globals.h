@@ -11,4 +11,5 @@
 
 #define DELAY_IN_MAIN_LOOP 	5         // Delay in ms
 
+#define USART_COMMS_RX_BUFFERSIZE 1
 #endif
